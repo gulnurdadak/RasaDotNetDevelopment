@@ -1,0 +1,80 @@
+version: "3.1"
+
+nlu:
+- intent: goodbye
+  examples: | 
+    - bye
+    - see you
+    - yeah
+
+- intent: bot_challenge
+  examples: |
+    - Are you a bot?
+    - are you alive?
+    - what are you?
+
+- intent: dotnet_intro
+  examples: |
+    - Tell me about .NET development
+    - What is .NET all about?
+    - Explain .NET to me
+
+- intent: dotnet_languages
+  examples: |
+    - Which languages are used in .NET development?
+    - Tell me about programming languages in .NET
+    - Explain C# and F# in .NET
+
+- intent: dotnet_frameworks
+  examples: |
+    - What frameworks are available in .NET?
+    - Tell me about ASP.NET
+    - Explain Xamarin in .NET
+
+- intent: dotnet_core
+  examples: |
+    - What is .NET Core?
+    - Explain .NET Core development
+    - Tell me about cross-platform development with .NET
+
+- intent: dotnet_ide
+  examples: |
+    - Which IDE is commonly used in .NET development?
+    - Tell me about Visual Studio
+    - What are the popular IDEs for .NET?
+
+- intent: dotnet_mvc
+  examples: |
+    - Explain ASP.NET MVC
+    - How does ASP.NET MVC work?
+    - Tell me about building web applications with ASP.NET MVC
+
+- intent: dotnet_api
+  examples: |
+    - How can I build APIs with .NET?
+    - Tell me about ASP.NET Web API
+    - Explain RESTful API development in .NET
+
+- intent: dotnet_entity_framework
+  examples: |
+    - What is Entity Framework?
+    - Explain database interactions with Entity Framework
+    - How to use Entity Framework in .NET applications
+
+- intent: dotnet_dependency_injection
+  examples: |
+    - What is dependency injection in .NET?
+    - Explain DI in .NET development
+    - Tell me about the benefits of dependency injection
+
+- intent: dotnet_testing
+  examples: |
+    - How to perform unit testing in .NET?
+    - Tell me about test-driven development in .NET
+    - Explain the testing process in .NET development
+
+- intent: dotnet_azure
+  examples: |
+    - Tell me about using Azure in .NET development
+    - How to deploy .NET applications on Azure?
+    - Explain cloud-based solutions with .NET and Azure

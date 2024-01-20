@@ -1,0 +1,58 @@
+version: "3.1"
+
+stories:
+- story: dotnet_intro_story
+  steps:
+  - intent: dotnet_intro
+  - action: utter_dotnet_intro
+
+- story: dotnet_languages_story
+  steps:
+  - intent: dotnet_languages
+  - action: utter_dotnet_languages
+
+- story: dotnet_frameworks_story
+  steps:
+  - intent: dotnet_frameworks
+  - action: utter_dotnet_frameworks
+
+- story: dotnet_core_story
+  steps:
+  - intent: dotnet_core
+  - action: utter_dotnet_core
+
+- story: dotnet_ide_story
+  steps:
+  - intent: dotnet_ide
+  - action: utter_dotnet_ide
+
+- story: dotnet_mvc_story
+  steps:
+  - intent: dotnet_mvc
+  - action: utter_dotnet_mvc
+
+- story: dotnet_api_story
+  steps:
+  - intent: dotnet_api
+  - action: utter_dotnet_api
+
+- story: dotnet_entity_framework_story
+  steps:
+  - intent: dotnet_entity_framework
+  - action: utter_dotnet_entity_framework
+
+- story: dotnet_dependency_injection_story
+  steps:
+  - intent: dotnet_dependency_injection
+  - action: utter_dotnet_dependency_injection
+
+- story: dotnet_testing_story
+  steps:
+  - intent: dotnet_testing
+  - action: utter_dotnet_testing
+
+- story: dotnet_azure_story
+  steps:
+  - intent: dotnet_azure
+  - action: utter_dotnet_azure
+

@@ -1,0 +1,27 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPicxL700MT21uLY2FgAzAiAS": "utter_dotnet_languages",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPicxL700MT21uJaAcaUlJalF8Ri6iDA3FgAVJUI+": "action_listen",
+    "eJwti8EJgDAMAFfJAE7QVURCqRGCmkgaFSnd3YD+7uBubH2AdhhdmIuzSoL2AUreKcEvG1cnifasZNGwhHqCWV3IMZj9wcXiudXW3qcXIHsjJQ==": "utter_dotnet_entity_framework",
+    "eJyNjdsJgDAMRVfJAE7QVUSCaISgppKmipTubkB/Rf/OgftoS22gbEo79oNxlADlBpR+pQCPLJyMxLM5kXqGxdUCjNGEDJ3ZTpzUO0fUuX6sZjNSfCv/f+kuGUdLdw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPjMltbY2FgB5NR2N": "utter_dotnet_ide",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPjMltZaAQaUlJalF8Ujq8ZoVCwCVFjqv": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrEgs7Y2FgB5UR2V": "utter_dotnet_api",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrEgs5aAQaUlJalF8Ujq8ZoVCwCYqjrH": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkHsgtyq+tjQUAtjcehw==": "utter_dotnet_intro",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkHsgtyq8lYFRpSUlqUTyKDgLmxQIAF149nQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPq0IqLg8vyi7uLY2FgBUMiCc": "utter_dotnet_frameworks",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPq0IqLg8vyi7uJaAeaUlJalF8ZjaiDE5FgDzgkPc": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrcsubY2FgB5nx2h": "utter_dotnet_mvc",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrcsuZaAQaUlJalF8Ujq8ZoVCwCedDrr": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPjm/KLW2NhYAl1geBA==": "utter_dotnet_core",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPjm/KLWWgEmlJSWpRfHIGvCbFgsAUSc8FA==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrGqtCi1tjYWALYpHoI=": "utter_dotnet_azure",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkPrGqtCi1loBRpSUlqUXxKDoImBcLABUOPY4=": "action_listen",
+    "eJwti1EKgCAQBa+yB+gEXiVCQt/HRj1FtyDEuyfV3wzMzK1P0nLB5ddgmuikfeC5HnDyy67VwNGeFWU0yqHmJCYjzEdkMILh9soN79P78gCtUCSc": "utter_dotnet_dependency_injection",
+    "eJyVjVEKgCAQRK/iATqBV4lYJOdjo1bRNQjx7kn1XfQ3D2bejLUNpsaEndysHMSaegcSt8GaB1bOCundkpF6h6WjWuODCpQ8IsRD5oNYFlyb9mEuqkj0Jvj3Np2lkE/c": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkviS1uCQzL722NhYA9FgfWQ==": "utter_dotnet_testing",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJb8kL7UkviS1uCQzL72WgGGlJSWpRfFoegiaGQsAloxAEw==": "action_listen"
+  }
+}
